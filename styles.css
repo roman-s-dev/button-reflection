@@ -1,0 +1,12 @@
+body {
+  padding: 20px;
+  font-family: sans-serif;
+}
+
+.p5Canvas {
+  border-radius: 50px;
+  /* overflow: hidden; */
+  position: relative;
+  border: 1px solid #888;
+  box-shadow: 0 3px 3px #0008,0 5px 5px #0002, 0 15px 5px #0004, 0 15px 25px #0005;
+}
